@@ -5,8 +5,9 @@ A full-featured, responsive e-commerce web app built with the MERN stack. This p
 🚀 **Live Demo**  
 - 🛍️ Customer Frontend: [https://e-commerce-mern-app-frontend.vercel.app](https://e-commerce-mern-app-frontend.vercel.app)  
 - 🛠️ Admin Dashboard: [https://e-commerce-mern-app-admin.vercel.app](https://e-commerce-mern-app-admin.vercel.app)
-
 ---
+
+![Homepage](./frontend.png)
 
 ## 🔐 Admin Access
 
@@ -114,7 +115,7 @@ npm run dev
 
 - Deploying frontend apps to Vercel and backend with cloud database
 
-![Homepage]
+
 
 📌 Disclaimer
 - This project is created for educational and portfolio purposes. All product data and images are placeholders. Stripe is used in test mode.
@@ -123,7 +124,8 @@ npm run dev
 Hailemichael Negusse
 GitHub: [hilla10](https://github.com/hilla10)
 
-This project is open-source and available under the MIT License
+This project is open-source and available under the [MIT License](./License)
+
 
 
 
